@@ -1,3 +1,3 @@
-#first trail project
+# first trail project
 
 amazon navbar
